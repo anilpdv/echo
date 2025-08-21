@@ -1,5 +1,5 @@
 {
-  "name": "web",
+  "name": "widget",
   "version": "0.0.1",
   "type": "module",
   "private": true,
@@ -12,7 +12,6 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@workspace/math" : "workspace:*",
     "@workspace/ui": "workspace:*",
     "lucide-react": "^0.475.0",
     "next": "^15.2.3",
